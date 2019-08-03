@@ -1,0 +1,317 @@
+   0.000 2019-08-03 07:40:57; Factorio 0.17.62 (build 46673, linux64, steam)
+   0.074 Operating system: Linux (Ubuntu 18.04)
+   0.074 Program arguments: "/home/rariteck/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" "--single-thread-loading" 
+   0.074 Read data path: /home/rariteck/.local/share/Steam/steamapps/common/Factorio/data
+   0.074 Write data path: /home/rariteck/.factorio [197058/222834MB]
+   0.074 Binaries path: /home/rariteck/.local/share/Steam/steamapps/common/Factorio/bin
+   0.088 System info: [CPU:         Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz, 4 cores, RAM: 20051 MB]
+   0.088 Environment: DISPLAY=:0 WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu XDG_CURRENT_DESKTOP=ubuntu:GNOME __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.089 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: 0000] [Lang: en]
+   0.141 Available displays: 1
+   0.141  [0]: E2290 22" - {[0,0], 1920x1080, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.199 Initialised OpenGL:[0] NVCF; driver: 4.3 (Core Profile) Mesa 19.0.2
+   0.199   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes
+   0.199   [Version] 4.3
+   0.523 Graphics settings preset: medium
+   0.523   Dedicated video memory size 0 MB (failed to detect)
+   0.523 Graphics options: [Graphics quality: high] [Video memory usage: high] [Light scale: 25%] [DXT: low-quality]
+   0.523                   [Max load threads: 1] [Max texture size: 0] [Tex.Stream.: 1] [Rotation quality: low] [Color: 32bit]
+   1.060 Error ModManager.cpp:811: Mod package read error. JSON parser error in package metadata: Unexpected character (�) at /home/rariteck/.factorio/mods/Aircraft_1.6.9.zip/info.json:1
+   1.236 Loading mod settings FARL 3.1.12 (settings.lua)
+   1.236 Loading mod settings alien-biomes 0.4.15 (settings.lua)
+   1.236 Loading mod settings MushroomCloud 1.0.8 (settings.lua)
+   1.237 Loading mod settings robot_attrition 0.3.8 (settings.lua)
+   1.237 Loading mod settings Shield-FX 0.17.2 (settings.lua)
+   1.237 Loading mod settings space-exploration 0.1.131 (settings.lua)
+   1.244 Loading mod core 0.0.0 (data.lua)
+   1.355 Loading mod base 0.17.62 (data.lua)
+   1.658 Loading mod FARL 3.1.12 (data.lua)
+   1.787 Loading mod alien-biomes 0.4.15 (data.lua)
+   2.348 Loading mod dedicated-bot-charger 1.0.0 (data.lua)
+   2.584 Loading mod robot_attrition 0.3.8 (data.lua)
+   2.815 Loading mod stdlib 1.2.2 (data.lua)
+   3.047 Loading mod underground-pipe-pack 0.17.0 (data.lua)
+   3.319 Loading mod space-exploration 0.1.131 (data.lua)
+   3.702 Loading mod base 0.17.62 (data-updates.lua)
+   3.956 Loading mod FARL 3.1.12 (data-updates.lua)
+   4.218 Loading mod alien-biomes 0.4.15 (data-updates.lua)
+   4.478 Loading mod MushroomCloud 1.0.8 (data-updates.lua)
+   4.745 Loading mod Shield-FX 0.17.2 (data-updates.lua)
+   5.012 Loading mod Squeak Through 1.3.0 (data-updates.lua)
+   5.274 Loading mod space-exploration 0.1.131 (data-updates.lua)
+   5.564 Loading mod FARL 3.1.12 (data-final-fixes.lua)
+   5.808 Loading mod alien-biomes 0.4.15 (data-final-fixes.lua)
+   5.866 Script @__alien-biomes__/data-final-fixes.lua:346: Setting decals to layer 162
+   5.866 Script @__alien-biomes__/data-final-fixes.lua:452: logging tile layers
+   5.883 Script @__alien-biomes__/data-final-fixes.lua:457: {
+  ["layer 0"] = "out-of-map",
+  ["layer 1"] = "water, water-green",
+  ["layer 2"] = "deepwater, deepwater-green",
+  ["layer 3"] = "water-shallow",
+  ["layer 4"] = "water-mud",
+  ["layer 5"] = "grass-1",
+  ["layer 6"] = "mineral-purple-dirt-1",
+  ["layer 7"] = "mineral-purple-dirt-2",
+  ["layer 8"] = "mineral-purple-dirt-3",
+  ["layer 9"] = "mineral-purple-dirt-4",
+  ["layer 10"] = "mineral-purple-dirt-5",
+  ["layer 11"] = "mineral-purple-dirt-6",
+  ["layer 12"] = "mineral-purple-sand-1",
+  ["layer 13"] = "mineral-purple-sand-2",
+  ["layer 14"] = "mineral-purple-sand-3",
+  ["layer 15"] = "mineral-violet-dirt-1",
+  ["layer 16"] = "mineral-violet-dirt-2",
+  ["layer 17"] = "mineral-violet-dirt-3",
+  ["layer 18"] = "mineral-violet-dirt-4",
+  ["layer 19"] = "mineral-violet-dirt-5",
+  ["layer 20"] = "mineral-violet-dirt-6",
+  ["layer 21"] = "mineral-violet-sand-1",
+  ["layer 22"] = "mineral-violet-sand-2",
+  ["layer 23"] = "mineral-violet-sand-3",
+  ["layer 24"] = "mineral-red-dirt-1",
+  ["layer 25"] = "mineral-red-dirt-2",
+  ["layer 26"] = "mineral-red-dirt-3",
+  ["layer 27"] = "mineral-red-dirt-4",
+  ["layer 28"] = "mineral-red-dirt-5",
+  ["layer 29"] = "mineral-red-dirt-6",
+  ["layer 30"] = "mineral-red-sand-1",
+  ["layer 31"] = "mineral-red-sand-2",
+  ["layer 32"] = "mineral-red-sand-3",
+  ["layer 33"] = "mineral-brown-dirt-1",
+  ["layer 34"] = "mineral-brown-dirt-2",
+  ["layer 35"] = "mineral-brown-dirt-3",
+  ["layer 36"] = "mineral-brown-dirt-4",
+  ["layer 37"] = "mineral-brown-dirt-5",
+  ["layer 38"] = "mineral-brown-dirt-6",
+  ["layer 39"] = "mineral-brown-sand-1",
+  ["layer 40"] = "mineral-brown-sand-2",
+  ["layer 41"] = "mineral-brown-sand-3",
+  ["layer 42"] = "mineral-tan-dirt-1",
+  ["layer 43"] = "mineral-tan-dirt-2",
+  ["layer 44"] = "mineral-tan-dirt-3",
+  ["layer 45"] = "mineral-tan-dirt-4",
+  ["layer 46"] = "mineral-tan-dirt-5",
+  ["layer 47"] = "mineral-tan-dirt-6",
+  ["layer 48"] = "mineral-tan-sand-1",
+  ["layer 49"] = "mineral-tan-sand-2",
+  ["layer 50"] = "mineral-tan-sand-3",
+  ["layer 51"] = "mineral-aubergine-dirt-1",
+  ["layer 52"] = "mineral-aubergine-dirt-2",
+  ["layer 53"] = "mineral-aubergine-dirt-3",
+  ["layer 54"] = "mineral-aubergine-dirt-4",
+  ["layer 55"] = "mineral-aubergine-dirt-5",
+  ["layer 56"] = "mineral-aubergine-dirt-6",
+  ["layer 57"] = "mineral-aubergine-sand-1",
+  ["layer 58"] = "mineral-aubergine-sand-2",
+  ["layer 59"] = "mineral-aubergine-sand-3",
+  ["layer 60"] = "mineral-dustyrose-dirt-1",
+  ["layer 61"] = "mineral-dustyrose-dirt-2",
+  ["layer 62"] = "mineral-dustyrose-dirt-3",
+  ["layer 63"] = "mineral-dustyrose-dirt-4",
+  ["layer 64"] = "mineral-dustyrose-dirt-5",
+  ["layer 65"] = "mineral-dustyrose-dirt-6",
+  ["layer 66"] = "mineral-dustyrose-sand-1",
+  ["layer 67"] = "mineral-dustyrose-sand-2",
+  ["layer 68"] = "mineral-dustyrose-sand-3",
+  ["layer 69"] = "mineral-beige-dirt-1",
+  ["layer 70"] = "mineral-beige-dirt-2",
+  ["layer 71"] = "mineral-beige-dirt-3",
+  ["layer 72"] = "mineral-beige-dirt-4",
+  ["layer 73"] = "mineral-beige-dirt-5",
+  ["layer 74"] = "mineral-beige-dirt-6",
+  ["layer 75"] = "mineral-beige-sand-1",
+  ["layer 76"] = "mineral-beige-sand-2",
+  ["layer 77"] = "mineral-beige-sand-3",
+  ["layer 78"] = "mineral-cream-dirt-1",
+  ["layer 79"] = "mineral-cream-dirt-2",
+  ["layer 80"] = "mineral-cream-dirt-3",
+  ["layer 81"] = "mineral-cream-dirt-4",
+  ["layer 82"] = "mineral-cream-dirt-5",
+  ["layer 83"] = "mineral-cream-dirt-6",
+  ["layer 84"] = "mineral-cream-sand-1",
+  ["layer 85"] = "mineral-cream-sand-2",
+  ["layer 86"] = "mineral-cream-sand-3",
+  ["layer 87"] = "mineral-black-dirt-1",
+  ["layer 88"] = "mineral-black-dirt-2",
+  ["layer 89"] = "mineral-black-dirt-3",
+  ["layer 90"] = "mineral-black-dirt-4",
+  ["layer 91"] = "mineral-black-dirt-5",
+  ["layer 92"] = "mineral-black-dirt-6",
+  ["layer 93"] = "mineral-black-sand-1",
+  ["layer 94"] = "mineral-black-sand-2",
+  ["layer 95"] = "mineral-black-sand-3",
+  ["layer 96"] = "mineral-grey-dirt-1",
+  ["layer 97"] = "mineral-grey-dirt-2",
+  ["layer 98"] = "mineral-grey-dirt-3",
+  ["layer 99"] = "mineral-grey-dirt-4",
+  ["layer 100"] = "mineral-grey-dirt-5",
+  ["layer 101"] = "mineral-grey-dirt-6",
+  ["layer 102"] = "mineral-grey-sand-1",
+  ["layer 103"] = "mineral-grey-sand-2",
+  ["layer 104"] = "mineral-grey-sand-3",
+  ["layer 105"] = "mineral-white-dirt-1",
+  ["layer 106"] = "mineral-white-dirt-2",
+  ["layer 107"] = "mineral-white-dirt-3",
+  ["layer 108"] = "mineral-white-dirt-4",
+  ["layer 109"] = "mineral-white-dirt-5",
+  ["layer 110"] = "mineral-white-dirt-6",
+  ["layer 111"] = "mineral-white-sand-1",
+  ["layer 112"] = "mineral-white-sand-2",
+  ["layer 113"] = "mineral-white-sand-3",
+  ["layer 114"] = "vegetation-turquoise-grass-1",
+  ["layer 115"] = "vegetation-turquoise-grass-2",
+  ["layer 116"] = "vegetation-green-grass-1",
+  ["layer 117"] = "vegetation-green-grass-2",
+  ["layer 118"] = "vegetation-green-grass-3",
+  ["layer 119"] = "vegetation-green-grass-4",
+  ["layer 120"] = "vegetation-olive-grass-1",
+  ["layer 121"] = "vegetation-olive-grass-2",
+  ["layer 122"] = "vegetation-yellow-grass-1",
+  ["layer 123"] = "vegetation-yellow-grass-2",
+  ["layer 124"] = "vegetation-orange-grass-1",
+  ["layer 125"] = "vegetation-orange-grass-2",
+  ["layer 126"] = "vegetation-red-grass-1",
+  ["layer 127"] = "vegetation-red-grass-2",
+  ["layer 128"] = "vegetation-violet-grass-1",
+  ["layer 129"] = "vegetation-violet-grass-2",
+  ["layer 130"] = "vegetation-purple-grass-1",
+  ["layer 131"] = "vegetation-purple-grass-2",
+  ["layer 132"] = "vegetation-mauve-grass-1",
+  ["layer 133"] = "vegetation-mauve-grass-2",
+  ["layer 134"] = "vegetation-blue-grass-1",
+  ["layer 135"] = "vegetation-blue-grass-2",
+  ["layer 136"] = "volcanic-orange-heat-1",
+  ["layer 137"] = "volcanic-orange-heat-2",
+  ["layer 138"] = "volcanic-orange-heat-3",
+  ["layer 139"] = "volcanic-orange-heat-4",
+  ["layer 140"] = "volcanic-green-heat-1",
+  ["layer 141"] = "volcanic-green-heat-2",
+  ["layer 142"] = "volcanic-green-heat-3",
+  ["layer 143"] = "volcanic-green-heat-4",
+  ["layer 144"] = "volcanic-blue-heat-1",
+  ["layer 145"] = "volcanic-blue-heat-2",
+  ["layer 146"] = "volcanic-blue-heat-3",
+  ["layer 147"] = "volcanic-blue-heat-4",
+  ["layer 148"] = "volcanic-purple-heat-1",
+  ["layer 149"] = "volcanic-purple-heat-2",
+  ["layer 150"] = "volcanic-purple-heat-3",
+  ["layer 151"] = "volcanic-purple-heat-4",
+  ["layer 152"] = "frozen-snow-0",
+  ["layer 153"] = "frozen-snow-1",
+  ["layer 154"] = "frozen-snow-2",
+  ["layer 155"] = "frozen-snow-3",
+  ["layer 156"] = "frozen-snow-4",
+  ["layer 157"] = "frozen-snow-5",
+  ["layer 158"] = "frozen-snow-6",
+  ["layer 159"] = "frozen-snow-7",
+  ["layer 160"] = "frozen-snow-8",
+  ["layer 161"] = "frozen-snow-9",
+  ["layer 162"] = "landfill",
+  ["layer 163"] = "se-space",
+  ["layer 164"] = "sand-1",
+  ["layer 165"] = "sand-2",
+  ["layer 166"] = "sand-3",
+  ["layer 167"] = "red-desert-1",
+  ["layer 168"] = "red-desert-2",
+  ["layer 169"] = "red-desert-3",
+  ["layer 170"] = "dry-dirt",
+  ["layer 171"] = "dirt-1",
+  ["layer 172"] = "dirt-2",
+  ["layer 173"] = "se-asteroid",
+  ["layer 174"] = "dirt-3",
+  ["layer 175"] = "dirt-4",
+  ["layer 176"] = "dirt-5",
+  ["layer 177"] = "dirt-6",
+  ["layer 178"] = "dirt-7",
+  ["layer 179"] = "grass-2",
+  ["layer 180"] = "grass-3",
+  ["layer 181"] = "grass-4",
+  ["layer 182"] = "red-desert-0",
+  ["layer 183"] = "stone-path",
+  ["layer 184"] = "concrete",
+  ["layer 185"] = "hazard-concrete-left, hazard-concrete-right",
+  ["layer 186"] = "refined-concrete",
+  ["layer 187"] = "refined-hazard-concrete-left, refined-hazard-concrete-right",
+  ["layer 188"] = "lab-dark-1",
+  ["layer 189"] = "lab-dark-2",
+  ["layer 190"] = "lab-white",
+  ["layer 191"] = "tutorial-grid",
+  ["layer 192"] = "se-regolith",
+  ["layer 193"] = "se-space-platform-scaffold",
+  ["layer 194"] = "se-space-platform-plating",
+  ["layer 195"] = "se-spaceship-floor"
+}
+   6.116 Loading mod robot_attrition 0.3.8 (data-final-fixes.lua)
+   6.377 Loading mod space-exploration 0.1.131 (data-final-fixes.lua)
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: iron-ore: iron-ore
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: iron-ore
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: copper-ore: copper-ore
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: copper-ore
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: coal: coal
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: coal
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: stone: stone
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: stone
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: uranium-ore: uranium-ore
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: uranium-ore
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: crude-oil: crude-oil
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: crude-oil
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: se-water-ice: se-water-ice
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: se-water-ice
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:22: Resource has control: se-methane-ice: se-methane-ice
+   6.432 Script @__space-exploration__/prototypes/phase-3/resources.lua:40: Resource can place: se-methane-ice
+   6.674 Loading mod space-exploration-postprocess 0.1.41 (data-final-fixes.lua)
+   6.969 Checksum for core: 4010759179
+   6.969 Checksum of base: 614826925
+   6.969 Checksum of FARL: 2629105727
+   6.969 Checksum of alien-biomes: 3482945721
+   6.969 Checksum of dedicated-bot-charger: 2478663031
+   6.969 Checksum of Krastorio-graphics: 0
+   6.969 Checksum of MushroomCloud: 3245238210
+   6.969 Checksum of robot_attrition: 4231589252
+   6.969 Checksum of Shield-FX: 1702126628
+   6.969 Checksum of space-exploration-graphics: 0
+   6.969 Checksum of Squeak Through: 3677677690
+   6.969 Checksum of stdlib: 68667574
+   6.969 Checksum of underground-pipe-pack: 602088378
+   6.969 Checksum of space-exploration: 2895070396
+   6.969 Checksum of space-exploration-postprocess: 2210159577
+   7.456 Warning EnergySourcePrototype.cpp:91: emissions used, use emissions_per_minute (proposed value 4e-06): ROOT.pump.underground-mini-pump.energy_source
+   7.590 Loading sounds...
+   7.904 Info PlayerData.cpp:69: Local player-data.json unavailable
+   7.904 Info PlayerData.cpp:72: Cloud player-data.json available, timestamp 1564796726
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/junk.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/junk.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/junk.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.000 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.001 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.001 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.001 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.001 Warning AtlasSystem.cpp:140: Image "__space-exploration-graphics__/graphics/icons/data/significant.png" was used for an icon multiple times with different scale. Icon background might not be consistent with other icons.
+   8.196 Initial atlas bitmap size is 16384
+   8.214 Created atlas bitmap 16384x16376 [none]
+   9.722 Created atlas bitmap 16384x15368 [none]
+   9.735 Created atlas bitmap 16384x4752 [decal]
+   9.736 Created atlas bitmap 16384x5344 [low-object, linear-minification]
+  10.513 Created atlas bitmap 16384x3792 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+  12.087 Created atlas bitmap 16384x12128 [terrain, mipmap, linear-minification, linear-mip-level]
+  12.088 Created atlas bitmap 4096x1776 [smoke, mipmap, linear-minification, linear-magnification]
+  12.088 Created atlas bitmap 4096x2752 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+  12.089 Created atlas bitmap 2048x384 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+  12.089 Created atlas bitmap 8192x1808 [alpha-mask]
+  12.093 Created atlas bitmap 16384x4904 [shadow, linear-magnification, alpha-mask]
+  12.093 Created atlas bitmap 8192x2000 [shadow, mipmap, linear-magnification, alpha-mask]
+  12.139 Created virtual atlas pages 4096x4096x5
+  12.160 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  16.968 Closed during loading.
+  17.182 Steam API shutdown.
+  17.184 Goodbye
